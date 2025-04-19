@@ -33,7 +33,7 @@ function Projects() {
                          abwechselnd Züge zu machen und das Spiel zu gewinnen oder mit einem Unentschieden zu enden. 
                         Das Spiel ist vollständig mit JavaScript, HTML und CSS entwickelt und zeigt meine Fähigkeiten
                          in der Programmierung und Problemlösung. 
-                         <br />Eine Runde ? Klicken Sie bitte  <a href=" https://michel-ange-just.github.io/tictactoe/"><u>hier</u></a> </p>
+                         <br />Eine Runde? Klicken Sie bitte  <a href=" https://michel-ange-just.github.io/tictactoe/"><u>hier</u></a> </p>
                     <div className="flex flex-wrap justify-around">
                         <FaHtml5 className="text-2xl text-orange-500 " />
                         <FaCss3 className="text-2xl text-blue-500" />
