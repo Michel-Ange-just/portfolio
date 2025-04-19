@@ -29,7 +29,11 @@ function Projects() {
                 <motion.div 
                     className="w-full max-w-xl lg: w-3/4">
                     <h6 className="mb-2 text-2xl">Tic-Tac-Toe-Spiel</h6>
-                    <p className="mb-4">Dies ist ein interaktives Tic-Tac-Toe-Spiel, das es zwei Spielern ermöglicht, abwechselnd Züge zu machen und das Spiel zu gewinnen oder mit einem Unentschieden zu enden. Das Spiel ist vollständig mit JavaScript, HTML und CSS entwickelt und zeigt meine Fähigkeiten in der Programmierung und Problemlösung.</p>
+                    <p className="mb-4">Dies ist ein interaktives Tic-Tac-Toe-Spiel, das es zwei Spielern ermöglicht,
+                         abwechselnd Züge zu machen und das Spiel zu gewinnen oder mit einem Unentschieden zu enden. 
+                        Das Spiel ist vollständig mit JavaScript, HTML und CSS entwickelt und zeigt meine Fähigkeiten
+                         in der Programmierung und Problemlösung. 
+                         <br /> Eine Runde ? Klicken Sie bitte  <a href=" https://michel-ange-just.github.io/tictactoe/"><u>hier</u></a> </p>
                     <div className="flex flex-wrap justify-around">
                         <FaHtml5 className="text-2xl text-orange-500 " />
                         <FaCss3 className="text-2xl text-blue-500" />
