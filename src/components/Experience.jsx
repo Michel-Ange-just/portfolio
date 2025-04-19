@@ -24,7 +24,7 @@ function Experience() {
                <p className="pl-12 flex "><FaRegHandPointRight/> <span className="pl-4">Aktive Teilnahme an Coding-Challenges (LeetCode) : 2023 - jetzt</span></p>
                <div className="flex"><FcGraduationCap /> <p className="pl-4">Gruppenprojekte und Zusammenarbeit</p> </div>
                <p className="pl-12 flex "><FaRegHandPointRight/> <span className="pl-4">Tic-Tac-Toe-Spiel: Entwicklung eines klassischen Tic-Tac-Toe-Spiels, <br /> bei dem zwei Spieler in einem 3x3-Raster gegeneinander antreten,<br /> um drei Symbole in einer Reihe zu platzieren.
-               <br />Spielen: https://michel-ange-just.github.io/tictactoe/ </span></p>
+               <br /> Eine Runde ? Klicken Sie bitte  <a href=" https://michel-ange-just.github.io/tictactoe/"><u>hier</u></a> </span></p>
                
             </motion.div>
         </div>
