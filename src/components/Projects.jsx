@@ -119,7 +119,7 @@ function Projects() {
                     <p className="mb-4">
                         FlippingCard ist eine vollständig responsive Website, die sich automatisch an verschiedene 
                         Bildschirmgrößen anpasst egal ob auf Desktop, Tablet oder Smartphone. Sie folgt den Best 
-                        Practices moderner Webentwicklung und bietet eine intuitive Benutzererfahrung..<a href="https://michel-ange-just.github.io/filppingCard/"><u> Zu der Webseite </u></a> </p>  
+                        Practices moderner Webentwicklung und bietet eine intuitive Benutzererfahrung. <a href="https://michel-ange-just.github.io/filppingCard/"><u> Zu der Webseite </u></a> </p>  
                     <div className="flex flex-wrap justify-around">
                         <FaHtml5 className="text-2xl text-orange-500 " />
                         <FaCss3 className="text-2xl text-blue-500" />
@@ -136,7 +136,7 @@ function Projects() {
                     className="w-full max-w-xl lg: w-3/4">
                     <h6 className="mb-2 text-2xl">Card</h6>
                     <p className="mb-4">Das ist eine Login-Seite ist ein minimalistisches und professionelles Anmeldeformular. 
-                        Sie kann einen klaren und benutzerfreundlichen Zugang zu geschützten Bereichen bieten.  <a href="https://michel-ange-just.github.io/responsiveCard/"><u>Schnell Übersicht</u></a> </p>
+                        Sie kann einen klaren und benutzerfreundlichen Zugang zu geschützten Bereichen bieten.  <a href="https://michel-ange-just.github.io/responsiveCard/"><u> Schnell Übersicht</u></a> </p>
                     <div className="flex flex-wrap justify-around">
                         <FaHtml5 className="text-2xl text-orange-500 " />
                         <FaCss3 className="text-2xl text-blue-500" />
