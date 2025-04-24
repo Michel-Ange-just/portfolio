@@ -118,7 +118,7 @@ function Projects() {
                     <h6 className="mb-2 text-2xl">FlippingCard</h6>
                     <p className="mb-4">
                         FlippingCard ist eine vollständig responsive Website, die sich automatisch an verschiedene 
-                        Bildschirmgrößen anpasst – egal ob auf Desktop, Tablet oder Smartphone. Sie folgt den Best 
+                        Bildschirmgrößen anpasst egal ob auf Desktop, Tablet oder Smartphone. Sie folgt den Best 
                         Practices moderner Webentwicklung und bietet eine intuitive Benutzererfahrung..<a href="https://michel-ange-just.github.io/filppingCard/"><u> Zu der Webseite </u></a> </p>  
                     <div className="flex flex-wrap justify-around">
                         <FaHtml5 className="text-2xl text-orange-500 " />
