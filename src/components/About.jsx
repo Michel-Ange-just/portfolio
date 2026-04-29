@@ -22,10 +22,12 @@ function About() {
                     transition={{duration:0.5}}
                     className="w-full lg:w-1/2">
                     <div className="flex justify-center lg:justify-start">
-                            <p className="my-2 max-w-xl py-6 px-4">Ich bin Michel Ange Nji-Le, Student an der RPTU Kaiserslautern-Landau, wo ich seit zwei Semestern Informatik studiere. <br /> <br />
-                                Seit nunmehr acht Monaten entwickle ich mit Leidenschaft Web-Anwendungen und habe dabei ein besonderes Interesse an Responsive Design, Web-Performance und skalierbaren Backend-Systemen. <br /> <br />
-                                Aktuell bin ich auf der Suche nach neuen Herausforderungen, um meine Fähigkeiten weiter auszubauen. Ich möchte die Möglichkeit bekommen, von erfahrenen Fachleuten zu lernen, an echten Projekten zu arbeiten und mein Wissen in einer professionellen Umgebung zu vertiefen. <br /> <br />
-                                Ich beherrsche Technologien wie HTML, CSS, JavaScript und Node.js und freue mich darauf, meine Kenntnisse weiter zu erweitern.
+                            <p className="my-2 max-w-xl py-6 px-4">Ich bin Michel Ange Nji‑Le, Informatikstudent an der RPTU Kaiserslautern‑Landau, mit einem starken Interesse an Softwareentwicklung, Machine learning und modernen Webtechnologien.
+Im Wintersemester 2025 war ich Tutor für die Vorlesung "Konzepte der Programmierung".Seit mehreren Monaten entwickle ich mit Begeisterung Web‑Anwendungen und beschäftige mich intensiv mit Responsive Design, Web‑Performance und skalierbaren Backend‑Systemen. 
+                                Dabei lege ich großen Wert auf sauberen Code, effiziente Architektur und eine gute Nutzererfahrung.
+Ich arbeite mit Technologien wie HTML, CSS, JavaScript (React), Node.js, Python (Django, Pandas, numpy, matplotlib) und Java (Spring, REST‑APIs, JUnit). Außerdem habe ich Erfahrung mit Versionskontrolle (Git, GitHub, GitLab) und agilen Methoden (Scrum).
+Aktuell suche ich nach neuen Herausforderungen, um meine Fähigkeiten weiter auszubauen und praktische Erfahrung in professionellen Projekten zu sammeln. Besonders reizt mich die Möglichkeit, mit erfahrenen Entwicklerinnen und Entwicklern zusammenzuarbeiten und mein Wissen in einem Team einzubringen.
+Neben der Webentwicklung interessiere ich mich für Software‑Architektur, Datenanalyse und funktionale Programmierung (F#). Ich bin überzeugt, dass kontinuierliches Lernen und Neugier die Grundlage für gute Software sind
                             </p>
                     </div>
                 </motion.div>
