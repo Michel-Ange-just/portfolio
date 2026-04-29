@@ -5,7 +5,7 @@ Ich liebe es, Ideen in funktionierende Software zu verwandeln – egal ob Web-Ap
 
 Dieses Projekt ist mein digitaler Raum, in dem ich zeige, was ich kann, was ich lerne und woran ich gerade arbeite.
 
----
+
 
 ##  Was dich hier erwartet
 
@@ -13,7 +13,7 @@ Dieses Projekt ist mein digitaler Raum, in dem ich zeige, was ich kann, was ich 
 - Meine Projekte aus Webentwicklung, Software Engineering und Data Science  
 - Ein Überblick über meine Skills und meinen Weg als Entwickler  
 
----
+
 
 ## Technologien, die ich einsetze
 
@@ -22,13 +22,12 @@ Dieses Projekt ist mein digitaler Raum, in dem ich zeige, was ich kann, was ich 
 - **Weitere Sprachen:** C, C++, F#, PHP, Bash  
 - **Tools:** Git, GitHub, GitLab, UML  
 
----
+
 
 ## Warum dieses Portfolio?
 
 Ich möchte zeigen, wie ich denke, wie ich Probleme löse und wie ich Software entwickle.  
 Ich suche aktiv nach Möglichkeiten, mich weiterzuentwickeln und an echten Projekten mitzuwirken.
 
----
 
 
